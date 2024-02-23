@@ -10,7 +10,7 @@ import sys
 
 
 # Set up API
-OPEN_API_KEY = "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"
+OPEN_API_KEY = " "
 os.environ["OPENAI_API_KEY"] = OPEN_API_KEY
 
 # Catch user query
